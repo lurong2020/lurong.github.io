@@ -1,5 +1,6 @@
 ## Welcome to My Page
 
+![LuRong](/1c(1).jpg)
 ### About me
 
 RONG Lu, Master, Research Assistant, Her research interests include natural language understanding, machine translation and computational language.
@@ -13,4 +14,5 @@ lurong2020@outlook.com
 
 # Honors & Awards
 Excellent undergraduate, Tianjin University, school of foreign languages. 2019
+
 IJCAI Volunteer Travel Grant by SIGIR. 2019
