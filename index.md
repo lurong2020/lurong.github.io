@@ -10,3 +10,7 @@ Sep. 2013 - July 2017, B.Eng., Xinzhou Teachers University, school of foreign la
 
 # Email
 lurong2020@outlook.com
+
+# Honors & Awards
+Excellent undergraduate, Tianjin University, school of foreign languages. 2019
+IJCAI Volunteer Travel Grant by SIGIR. 2019
