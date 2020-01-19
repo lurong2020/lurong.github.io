@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-![LuRong](/1c(1).jpg)
+![LuRong](/lurong.jpg)
 ### About me
 
 RONG Lu, Master, Research Assistant, Her research interests include natural language understanding, machine translation and computational language.
